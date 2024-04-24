@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicoleReiswig
-- 👀 I’m a business professional transitioning to Data Scientist
-- 🌱 I’m currently learning SQL, R, Python, Tableau, Power BI and more through the Master of Science in Data Analytics program at Western Governors University
-- 💞️ I’m looking for remote internships and career opportunities or on-site opportunities in Florida
-- 📫 I can be reached at https://www.linkedin.com/in/nicole-reiswig/
+- 👀 Data Scientist with proven experience in business administration
+- 🌱 SQL, R, Python, Tableau, Power BI, Excel
+- 💞️ I’m looking for remote career opportunities or on-site opportunities in Florida
+- 📫 I can be reached at ntreiswig@gmail.com
 
 <!---
 NicoleReiswig/NicoleReiswig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
